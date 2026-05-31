@@ -25,8 +25,8 @@ Python · XGBoost · SHAP · Groq API (Llama 3.3) · Streamlit
 · Weekly behavioral signals · Original generated dataset
 
 ## Progress
-- [ ] Day 1 — Setup + dataset generated
-- [ ] Day 2 — Feature engineering + XGBoost model
+- [x] Day 1 — Setup + dataset generated
+- [x] Day 2 — XGBoost trained (ROC-AUC 0.93, precision 76%, recall 81%) — 669 high-risk customers flagged, ₹22.9L MRR at risk
 - [ ] Day 3 — Weekly risk scoring pipeline
 - [ ] Day 4 — Groq LLM retention actions
 - [ ] Day 5 — Streamlit app + deployment
