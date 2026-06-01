@@ -1,0 +1,81 @@
+customer_id,plan,monthly_revenue,churn_probability,risk_level,retention_action
+CUST10163,starter,999,0.9999504,High,"## SITUATION
+Customer CUST10163, on the Starter plan, has shown a significant decline in engagement over the last 4 weeks, with login frequency dropping to 2, session duration to 5 minutes, and API calls to 36. This behavior, combined with a low NPS score of 2/10, indicates a high churn risk, with a probability of 100.0%.
+
+## ROOT CAUSE
+The primary reason for this customer's likely churn is the drastic decline in usage metrics, including logins, session duration, and API calls, which suggests a lack of value being derived from the product.
+
+## ACTION
+The customer success team should conduct a personal check-in call with the customer this week to understand their concerns and provide a feature walkthrough to increase feature usage. Additionally, offering an upgrade trial to the Growth plan or a renewal discount may help re-engage the customer and reduce churn risk."
+CUST10676,starter,999,0.99992335,High,"## SITUATION
+Customer CUST10676, on the Starter plan, is exhibiting high churn risk with a 100% probability, driven by declining login frequency, from 5 to 1 over the last 4 weeks, and low feature usage, with 0 features used in weeks 43, 45, and 46. Their NPS score is also alarmingly low at 1/10.
+
+## ROOT CAUSE
+The primary reason for this customer's high churn risk is their significantly decreased engagement, as evidenced by the sharp drop in logins, API calls, and feature usage, indicating a lack of value realization from the product.
+
+## ACTION
+This week, the customer success team should conduct a personal check-in call to understand the customer's pain points and offer a feature walkthrough to increase adoption. Additionally, considering the customer's low NPS score and high churn risk, an upgrade trial to the Growth plan or a renewal discount should be offered to re-engage them."
+CUST11521,growth,2999,0.9998796,High,"## SITUATION
+Customer CUST11521 on the Growth plan is exhibiting high churn risk, with a 100% churn probability and a significant decline in logins, session duration, and API calls over the last 4 weeks. Specifically, their logins have dropped to 2, session duration to 17 minutes, and API calls to 39, indicating a substantial decrease in engagement.
+
+## ROOT CAUSE
+The primary reason for this customer's high churn risk is their drastically reduced login frequency, from 6 to 2, and low feature usage, at only 4 out of 8 features, indicating a lack of value realization from the product.
+
+## ACTION
+The customer success team should conduct a personal check-in call to understand the customer's current challenges and provide a feature walkthrough to increase feature usage. Additionally, an onboarding refresh should be offered to help the customer regain momentum and derive more value from the product, focusing on increasing logins and API calls to at least"
+CUST11272,growth,2999,0.99986744,High,"## SITUATION
+Customer CUST11272 on the Growth plan is exhibiting high churn risk, with a 100% churn probability and a recent decline in logins, from 5 in week 11 to 0 in week 14. Their NPS score is also low at 2/10, indicating significant dissatisfaction.
+
+## ROOT CAUSE
+The primary reason for this customer's high churn risk is their drastically decreased login frequency, with an average of only 2.25 logins over the last 4 weeks, far below the healthy benchmark of 5-8 logins per week.
+
+## ACTION
+The customer success team should conduct a personal check-in call this week to understand the customer's concerns and provide a feature walkthrough to increase engagement. Additionally, an onboarding refresh should be offered to highlight new features and re-establish a strong foundation for the customer's ecommerce business."
+CUST11061,starter,999,0.9998616,High,"## SITUATION
+Customer CUST11061, on the Starter plan, is exhibiting high churn risk with a 100% probability, driven by declining login frequency, session duration, and API calls over the last 4 weeks. Specifically, their logins have dropped to 2, session duration to 11 minutes, and API calls to 73, with feature usage at only 1 feature.
+
+## ROOT CAUSE
+The primary reason for this high churn risk is the significant decline in usage metrics, including logins, session duration, and API calls, indicating a lack of engagement with the platform.
+
+## ACTION
+This week, the customer success team should conduct a personal check-in call to understand the customer's current challenges and provide a feature walkthrough to re-engage them. Additionally, offering an upgrade trial to the Growth plan or a renewal discount may help retain the customer and address their evolving needs."
+CUST11582,starter,999,0.99983406,High,"## SITUATION
+Customer CUST11582, on the Starter plan, is exhibiting high churn risk with a 100.0% probability, driven by declining login frequency, session duration, and API calls over the last 4 weeks. Specifically, their logins have dropped to 2, session duration to 5 minutes, and API calls to 45, indicating a significant disengagement.
+
+## ROOT CAUSE
+The primary reason for this customer's high churn risk is their drastically reduced usage of the platform, as evidenced by the sharp decline in logins, session duration, and API calls, suggesting they are not deriving sufficient value from the product.
+
+## ACTION
+The customer success team should conduct a personal check-in call this week to understand the customer's current challenges and provide a feature walkthrough to re-engage them. Additionally, offering an upgrade trial to the Growth plan or a renewal discount may help reinvigorate their interest in the platform."
+CUST11232,starter,999,0.99983394,High,"## SITUATION
+Customer CUST11232, on the starter plan, has a churn probability of 100.0% with a high risk level, indicating immediate intervention is needed. Their recent behavior shows a decline in logins, feature usage, and API calls, with only 1 feature used in week 38 and an average of 3.5 logins per week over the last 4 weeks.
+
+## ROOT CAUSE
+The primary reason for the high churn risk is the significant decline in usage metrics, including average logins, API calls, and session minutes, over the last 4 weeks.
+
+## ACTION
+The customer success team should conduct a personal check-in call to understand the customer's current challenges and provide a feature walkthrough to increase feature usage. Additionally, offer a trial upgrade to the Growth plan or a renewal discount to incentivize continued use and mitigate churn risk."
+CUST10169,starter,999,0.99982005,High,"## SITUATION
+Customer CUST10169, on the Starter plan, has a churn probability of 100.0% with a high risk level, indicating immediate intervention is required. Their recent behavior shows a decline in logins, feature usage, and API calls, with 1-3 logins, 0-5 features used, and 56-90 API calls per week.
+
+## ROOT CAUSE
+The primary reason for the high churn risk is the significant decline in average logins and API calls over the last 4 weeks, with an average of only 2.75 logins and 69.5 API calls per week.
+
+## ACTION
+The customer success team should conduct a personal check-in call to understand the customer's current challenges and offer a feature walkthrough to increase feature usage. Additionally, consider offering an upgrade trial to the Growth plan or a renewal discount to incentivize continued subscription and mitigate churn risk."
+CUST11497,starter,999,0.99981683,High,"## SITUATION
+Customer CUST11497, on the Starter plan, has a 100% churn probability after 46 weeks, with an NPS score of 4/10. Their recent behavior shows a decline in logins (2 in week 46), feature usage (0 features used in weeks 43, 45, and 46), and session duration (9 minutes in week 46).
+
+## ROOT CAUSE
+The primary reason for the high churn risk is the significant decline in login frequency, feature usage, and session duration, indicating a lack of engagement with the product.
+
+## ACTION
+The customer success team should conduct a personal check-in call to understand the customer's pain points and offer a feature walkthrough to increase feature usage. Additionally, consider offering an upgrade trial or renewal discount to incentivize the customer to remain on the Starter plan or upgrade to a higher plan."
+CUST11520,starter,999,0.99981064,High,"## SITUATION
+Customer CUST11520, on the Starter plan, has a churn probability of 100.0% with a high risk level, indicating immediate intervention is necessary. Their recent behavior shows a decline in logins, feature usage, and session duration, with only 3 logins and 0 feature usage in the last week.
+
+## ROOT CAUSE
+The primary reason for the high churn risk is the significant drop in average logins, feature usage, and API calls over the last 4 weeks, with average logins decreasing to 3, which is below the healthy benchmark.
+
+## ACTION
+The customer success team should conduct a personal check-in call to understand the customer's current challenges and provide a feature walkthrough to increase feature usage. Additionally, offering an upgrade trial or renewal discount on the Starter plan may help to re-engage the customer and reduce churn risk."
