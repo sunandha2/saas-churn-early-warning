@@ -3,6 +3,11 @@
 > Predicts which customers are going silent 3 weeks before
 > they actually leave — with LLM-generated retention actions.
 
+<img width="1810" height="792" alt="image" src="https://github.com/user-attachments/assets/dce5b66d-0346-4848-b771-fecf067bbc31" />
+<img width="1806" height="793" alt="image" src="https://github.com/user-attachments/assets/7a07eac8-eb23-41ec-8cc1-6c56cbfc6000" />
+<img width="1815" height="652" alt="image" src="https://github.com/user-attachments/assets/992b4c59-2ac5-4f16-8406-1f8f4b40c649" />
+<img width="1878" height="720" alt="image" src="https://github.com/user-attachments/assets/b8462eb7-67d9-46d7-a2c1-6ad382e03230" />
+
 ## Live Demo
 🔗https://saas-churn-early-warning-8txziep77uauxcgtzuddqq.streamlit.app/
 
